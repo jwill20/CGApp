@@ -1,6 +1,6 @@
 # CGApp Application Exercise Instructions
 ## Overall Objective
-Create a Node.js based application that manages chatbot information via a REST API
+Create a Node.js based application that manages chatbot information via a REST API.
 
 ## Instructions
 Create a Node.js REST API that implements the following functions. Endpoint names can be whatever you choose but you will get extra credit
