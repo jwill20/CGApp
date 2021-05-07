@@ -14,13 +14,9 @@ for having names that follow best practices.
 bots.json contains the initial data for the bots. You can copy this into your code, but you will get extra credit for reading it in when 
 your applicaiton starts.
 
+Push your code to the repo that this readme is in - https://github.com/jwill20/CGApp
+
 ## Where is the bot data?
 bots.json contains the initial data for the bots
 
- 
 
-## How do I deploy this on my local machine? 
-- Set the system environment variable for the system you are testing against (DEVTEST, UAT, PROD)
-  - For example in a Linux/Mac environment - *export system=DEVTEST*
-- *npm install*
-- *node main.js*
