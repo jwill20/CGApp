@@ -16,6 +16,9 @@ your application starts.
 
 Push your code to the repo that this readme is in - https://github.com/jwill20/CGApp
 
+## What if I have questions?
+Enter any questions that you have into the file questions.txt and push it
+
 ## Where is the bot data?
 bots.json contains the initial data for the bots
 
