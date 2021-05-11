@@ -1,6 +1,8 @@
 Q.
 
 
+Q.Getting error while pushing the code "remote: Permission to jwill20/CGApp.git denied to sandeep33-k"
+
 A.
 
 
