@@ -45,7 +45,7 @@ Run project with following command
 
 ## APIs ##
 
-**1. AddBot** 
+**AddBot** 
 
 Add new bot details
 
@@ -69,7 +69,7 @@ RESPONSE
 }
 ````
 
-**2. GetAllBots** 
+**GetAllBots** 
 
 Fetch all the available bots
 
@@ -100,7 +100,7 @@ RESPONSE
 ````
 
 
-**3. GetBotById** 
+**GetBotById** 
 
 The API returns the one single bot information
 
@@ -123,7 +123,7 @@ RESPONSE
 ````
 
 
-**4. UpdateBot** 
+**UpdateBot** 
 
 The API will update the bot information
 
@@ -148,7 +148,7 @@ RESPONSE
 }
 ````
 
-**5. DeleteBot** 
+**DeleteBot** 
 
 The API will delete the bot information from db
 
