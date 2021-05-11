@@ -74,7 +74,7 @@ RESPONSE
 Fetch all the available bots
 
 ````javascript
-URL     - http://localhost:7071/api/v1/bot
+URL     - http://localhost:7071/api/v1/bots
 
 METHOD  - GET   
 
