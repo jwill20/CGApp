@@ -1,13 +1,12 @@
-Q.Can i use Azure Functions to write rest API?
-A. Yes
-
-Q.Can i Jest library for writing test cases?
-A. Yes, any library you want
-
 Q.
+
+
 A.
 
+
 Q.
+
+
 A.
 
 
